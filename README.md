@@ -30,7 +30,8 @@ A Python-based automation tool that plays songs from a playlist on YouTube and m
 ```bash
 pip install pywhatkit pytubefix
 ```
-
+## Recommended
+go to Brave settings and Enable On Startup - Open the New Tab page
 ## Usage
 
 1. Create a `songlist.txt` file with songs in format:
